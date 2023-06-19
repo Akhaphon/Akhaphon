@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Akhaphon Hoysangtong!
 
-👨‍💻 Web Developer | ETL Developer | Open Source Enthusiast
+👨‍💻 Web Developer | ETL Developer
 
 🔭 I'm currently working on building scalable web applications using Django and React.
 
